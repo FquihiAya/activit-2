@@ -4,7 +4,7 @@
 	}
 
 body{
-	background-color: #DDD;
+	background-color: #282726;
 	overflow-x: hidden; 
 }
 
@@ -18,7 +18,7 @@ nav {
 
 
 ul{
-    margin-left: 600px;
+    margin-left: 300px;
 }
 
 ul li {
@@ -30,7 +30,7 @@ ul li {
 ul li a {
 	display: block;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 15px;
 	font-family: 'Damion', cursive;
 	color: #fff  ; 
 	padding: 0 20px;
@@ -46,14 +46,45 @@ ul li a:hover {
 }
 
 
-.light-3{
-	margin-left: 150px;
+  .tm-header-line { width: 44px; }
+
+.gold-text { color: #c79c60; }
+.header2 {
+  margin-left: 400px;
+  font-family: 'Times New Roman', serif;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.tm-handwriting-font { font-family: 'Damion', cursive; }
+
+  .header-line { width: 80px; }
+
+
+.HAHA{
+	margin-left: 485px;
+	font-family: "Times New Roman";
+	  font-size: 50px;
+    color: #fff;
+}
+.top{
+	margin-bottom: : 200px;
+	    margin-bottom: 250px;
 
 }
-.light-2{
-	margin-left: 150px;
-
+.description { 
+     padding: 0;
+     margin: 0;
+	text-align: center; 
+    color: #fff;
+    font-size: 20px;
 }
-.light-1{
-	margin-left: 50px;
+.light { 
+    width: 300px; 
+    height: auto;
+
+  }
+.lights-container{
+	padding: 0;
+	margin: 0;
+	margin-left: 200px;
 }
