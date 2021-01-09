@@ -98,7 +98,7 @@ ul li a:hover {
 
 .cutColor{
 		background-color: #282726;
-		background-image: url(imageWeb/recept.jpg) ;
+		background-image: url(recept.jpg) ;
 		background-repeat: no-repeat;
 		background-size: cover;
 
@@ -226,7 +226,7 @@ ul li a:hover {
 .too
 {
 	
-	background-image: url(imageWeb/tm-brown-button.png);
+	background-image: url(tm-brown-button.png);
 	 width: 196px;
     height: 46px;  
     font-size: 16px;
@@ -271,7 +271,7 @@ ul li a:hover {
 	left: 50%;
 	top: 50%;
 	transform: translate(21.5%);
-	background-image: url(imageWeb/9.jpg);
+	background-image: url(9.jpg);
 	background-size: 100% 100%;
 	box-shadow: 1px 2px 10px #000;
 	animation: slider 10s infinite linear ;
@@ -289,7 +289,7 @@ h1
 	left: 50%;
 	top: 50%;
 	transform: translate(21.5%);
-	background-image: url(imageWeb/Hotel-SuperiorTwinRoom-Kitchenette-Darwin.jpg);
+	background-image: url(Hotel-SuperiorTwinRoom-Kitchenette-Darwin.jpg);
 	background-size: 100% 100%;
 	box-shadow: 1px 2px 10px #000;
 	animation: sliderr 10s infinite linear ;
@@ -300,48 +300,48 @@ h1
 	left: 50%;
 	top: 50%;
 	transform: translate(21.5%);
-	background-image: url(imageWeb/TWIN-SEA-VIEW-RENOVATION-2016.jpg);
+	background-image: url(TWIN-SEA-VIEW-RENOVATION-2016.jpg);
 	background-size: 100% 100%;
 	box-shadow: 1px 2px 10px #000;
 	animation: sliderrr 10s infinite linear ;
 }
 @keyframes slider{
 	0%{
-          background-image: url(imageWeb/9.jpg);
+          background-image: url(9.jpg);
 	}
 
 	35%{
-          background-image: url(imageWeb/superior-double-new.jpg);
+          background-image: url(superior-double-new.jpg);
 	}
 	75%{
-          background-image: url(imageWeb/8.jpg); 
+          background-image: url(8.jpg); 
 	}
 	
 }
 
 @keyframes sliderr{
 	0%{
-          background-image: url(imageWeb/Hotel-SuperiorTwinRoom-Kitchenette-Darwin.jpg);
+          background-image: url(Hotel-SuperiorTwinRoom-Kitchenette-Darwin.jpg);
 	}
 
 	35%{
-          background-image: url(imageWeb/superior-room.jpg);
+          background-image: url(superior-room.jpg);
 	}
 	75%{
-          background-image: url(imageWeb/10.jpg); 
+          background-image: url(10.jpg); 
 	}
 	
 }
 @keyframes sliderrr{
 	0%{
-          background-image: url(imageWeb/TWIN-SEA-VIEW-RENOVATION-2016.jpg);
+          background-image: url(TWIN-SEA-VIEW-RENOVATION-2016.jpg);
 	}
 
 	35%{
-          background-image: url(imageWeb/Dusit-Thani-Hua-Hin_Deluxe-Room.jpg);
+          background-image: url(Dusit-Thani-Hua-Hin_Deluxe-Room.jpg);
 	}
 	75%{
-          background-image: url(imageWeb/00690813_img_14_1600x.jpg); 
+          background-image: url(00690813_img_14_1600x.jpg); 
 	}
 }
 
